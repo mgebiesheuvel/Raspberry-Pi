@@ -1,0 +1,39 @@
+
+/* Class = "UITabBarItem"; title = "Instellingen"; ObjectID = "30A-Mk-7WN"; */
+"30A-Mk-7WN.title" = "Instellingen";
+
+/* Class = "UINavigationItem"; title = "Instellingen"; ObjectID = "Abu-p0-8SG"; */
+"Abu-p0-8SG.title" = "Instellingen";
+
+/* Class = "UITextField"; placeholder = "Text"; ObjectID = "Agh-jJ-sF4"; */
+"Agh-jJ-sF4.placeholder" = "Text";
+
+/* Class = "UIButton"; normalTitle = "versturen"; ObjectID = "DlC-r7-Ctz"; */
+"DlC-r7-Ctz.normalTitle" = "Versturen";
+
+/* Class = "UITextField"; placeholder = "Text"; ObjectID = "FQd-jN-hLy"; */
+"FQd-jN-hLy.placeholder" = "Text";
+
+/* Class = "UITableViewSection"; headerTitle = "Port"; ObjectID = "KWO-fo-oi1"; */
+"KWO-fo-oi1.headerTitle" = "Port";
+
+/* Class = "UITabBarItem"; title = "LCD"; ObjectID = "QZb-iy-UyO"; */
+"QZb-iy-UyO.title" = "LCD";
+
+/* Class = "UITableViewSection"; headerTitle = "Regel twee"; ObjectID = "RC3-Uq-KgN"; */
+"RC3-Uq-KgN.headerTitle" = "Regel twee";
+
+/* Class = "UINavigationItem"; title = "LCD"; ObjectID = "ZRZ-r1-AQ6"; */
+"ZRZ-r1-AQ6.title" = "LCD";
+
+/* Class = "UITextField"; placeholder = "Text"; ObjectID = "a4H-bo-bL7"; */
+"a4H-bo-bL7.placeholder" = "Text";
+
+/* Class = "UITextField"; placeholder = "Text"; ObjectID = "s2t-8x-e9w"; */
+"s2t-8x-e9w.placeholder" = "Text";
+
+/* Class = "UITableViewSection"; headerTitle = "Regel één"; ObjectID = "sfY-Iw-huC"; */
+"sfY-Iw-huC.headerTitle" = "Regel één";
+
+/* Class = "UITableViewSection"; headerTitle = "Host"; ObjectID = "w5R-18-4bv"; */
+"w5R-18-4bv.headerTitle" = "Host";
